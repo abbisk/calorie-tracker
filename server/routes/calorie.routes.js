@@ -1,4 +1,3 @@
-//models/calorie.model.js
 const router = require("express").Router();
 let Calorie = require("../models/calorie.model.js");
 
