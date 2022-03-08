@@ -1,4 +1,3 @@
-//routes/user.routes.js
 const router = require("express").Router();
 let User = require("../models/users.model.js");
 
